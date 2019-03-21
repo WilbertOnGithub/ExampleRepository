@@ -50,11 +50,3 @@ Integer semper mauris aliquet felis pellentesque, et euismod erat feugiat. Ut nu
 commodo mattis augue. Vivamus magna justo, malesuada a sapien vel, sagittis dapibus libero. 
 Nullam tristique, enim a consectetur eleifend, quam mi efficitur risus, a condimentum tellus purus eget quam. 
 Mauris sed dapibus justo, ac tristique nisl.
-
-Donec sed posuere augue. Aenean finibus convallis justo a congue. Maecenas pellentesque orci et sem viverra cursus. 
-Duis iaculis velit id tempus auctor. Etiam elementum turpis nunc, a vestibulum diam rutrum quis. 
-Fusce viverra, tellus et laoreet molestie, ex justo vestibulum tortor, tempor semper leo nulla a urna. 
-Morbi placerat efficitur enim, et congue odio cursus vitae. Nam maximus scelerisque sem eu commodo. 
-Donec pretium nisl nec erat faucibus, id consequat est consectetur. Donec vel erat vel dolor laoreet commodo non id orci. 
-Nullam ornare consectetur ante eget tincidunt. Fusce nec nulla urna. Sed tristique arcu eget egestas bibendum. 
-Etiam nulla lacus, pellentesque sed arcu sit amet, placerat ornare ex. Praesent mollis tellus non ligula fermentum egestas. 
