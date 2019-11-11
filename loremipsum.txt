@@ -1,9 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur condimentum sagittis. Fusce at rutrum lectus. 
-Integer dapibus felis a diam facilisis, mollis efficitur ex auctor. Nunc imperdiet dolor sed lacus suscipit, vitae ornare quam elementum. 
-In sit amet lectus aliquet, sollicitudin purus fermentum, euismod massa. Suspendisse eget eros magna. 
-Ut vulputate sollicitudin sollicitudin. Maecenas sodales lacus non lacus convallis rhoncus. Phasellus sollicitudin dignissim turpis, 
-ut fermentum nisl egestas sed. Aliquam metus lectus, dapibus in vestibulum a, fermentum eu dolor.
-
 Duis mollis mauris sed tincidunt laoreet. Pellentesque sagittis facilisis nisi sed feugiat. Duis dapibus commodo lectus in tempor. 
 Curabitur porta posuere quam, at luctus orci placerat vitae. Nunc lectus quam, commodo non eleifend non, lobortis eget tellus. 
 Praesent aliquet, diam a placerat mattis, tellus sem tristique magna, in tincidunt tortor felis ut orci. 
